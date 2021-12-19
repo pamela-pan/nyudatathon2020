@@ -1,0 +1,8 @@
+Variables,
+strein,Employer identification number (EIN)
+name,"Organization name, as provided by the IRS"
+sub_name,"Secondary name, as provided by the IRS."
+city,Organization's city
+state,Organization's state
+ntee_code,National Taxonomy of Exempt Entities (NTEE) category for this organization (see document). 
+mission statements,Organization's mission statements
