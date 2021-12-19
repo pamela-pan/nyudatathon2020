@@ -18,8 +18,8 @@ Our team utilizes the two databases—ProPublica Non-profit database and GuideSt
 - For GuideStar, because we don't have access to its API, so we scraped off the mission statements of organizations. 
 
 ### Output
-- Code (link)
-- List of potential partners evaluated with 7 variables ([link]())
+- Code ([link](https://github.com/pamela-pan/nyudatathon2020/blob/main/code.py))
+- Variables scraped on sheet 1 & List of potential partners on sheet 2 ([link](https://github.com/pamela-pan/nyudatathon2020/blob/main/Non-profit%20Ecosystem.csv))
 
 ### Advantages & Difficulties
 The advantages of our project include the ability to directly change parameters in code to get the data of interest, as well as a complete mission statement of each organization. 
