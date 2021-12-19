@@ -13,6 +13,7 @@ Understood was looking for an efficient way to identify non-profit collaborators
 
 ### Team members: We Will Never Know...
 Leaders: Lawrence Liu, Pamela Pan
+
 Members: Xu Han, Ahana Kumar
 
 ### Methodology
