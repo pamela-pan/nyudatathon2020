@@ -11,7 +11,7 @@ Understood was looking for an efficient way to identify non-profit collaborators
 - Build an automated tool to create and populate a dataset of companies that have potential to partner with Understood.org.
 - Build logic for Understood.org to score how closely each company aligns with their mission statement.
 
-### Team members: We Will Never Know...
+### Team Name: We Will Never Know...
 Leaders: Lawrence Liu, Pamela Pan
 
 Members: Xu Han, Ahana Kumar
