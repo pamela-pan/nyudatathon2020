@@ -1,16 +1,19 @@
 ### Intro
-This project was a part of the **NYU 2020 Datathon** collaborated between [NYU Center for Data Science](https://cds.nyu.edu/) and [Understood.org](https://www.understood.org/). 
+This project was developed in 36 hours across 3 timezones as a part of the **NYU 2020 Datathon** collaborated between [NYU Center for Data Science](https://cds.nyu.edu/) and [Understood.org](https://www.understood.org/). 
 
 ### Challenge partner
 Understood is an educational service provider to individuals who have ADHD or learning disabilities, as well as their caregivers, teachers, and parents. The company seeks innovative designs and collaborations to help the population who learn or think differently to explore a variety of intellectual journeys.
+
+<img src='https://github.com/pamela-pan/nyudatathon2020/blob/main/Mission%20of%20Challenge%20Partner.png'>
 
 ### Challenge details
 Understood was looking for an efficient way to identify non-profit collaborators. They challenged participating teams to build a programmatic solution in 36 hours, details include the following:
 - Build an automated tool to create and populate a dataset of companies that have potential to partner with Understood.org.
 - Build logic for Understood.org to score how closely each company aligns with their mission statement.
 
-### Team members
-Lawrence Liu, Pamela Pan
+### Team members: We Will Never Know...
+Leaders: Lawrence Liu, Pamela Pan
+Members: Xu Han, Ahana Kumar
 
 ### Methodology
 Our team utilizes the two databases—ProPublica Non-profit database and GuideStar. 
